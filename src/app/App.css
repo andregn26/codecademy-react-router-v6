@@ -28,6 +28,7 @@
 
 .active {
   font-weight: bold;
+  color: blueviolet;
 }
 
 @keyframes App-logo-float {
